@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="gcc -L../../../../../../../usr/local/lib -ljsoncpp -ljsonrpccpp-server -ljsonrpccpp-common -lmicrohttpd -lstdc++">
+      <target file="studentRPCServer" lastModified="17199978f6f">
+         <source file="../obj/server/StudentServer.o" lastModified="17199978a7c"/>
+         <source file="../obj/server/Student.o" lastModified="17199978c6b"/>
+         <source file="../obj/server/StudentCollection.o" lastModified="17199978ecf"/>
+      </target>
+   </processor>
+</history>
